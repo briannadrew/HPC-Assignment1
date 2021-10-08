@@ -1,0 +1,37 @@
+16:The course will consist of weekly meetings Fridays 14:00-15:50 on ENW 111 and a lab Mondays from 14:00-14:50 in OC202. Check the
+17:Academic timetable for updates to rooms and times.
+28:power, memory access, or storage. Core topics include advanced computer architectures, programming for shared and distributed memory
+29:machines, networking issues, caching, performance evaluation and parallel algorithms. Topics are supplemented with case studies.
+32:Students will be expected to demonstrate mastery of high-performance concepts including both theory and programming practice.
+33:Students will also be expected to research an area of HPC not covered in class and be able independently develop working code and solve a
+37:High Performance Computing, Modern Systems and Practices 1st Edition, Authors: Thomas Sterling Matthew Anderson Maciej Brodowicz
+42:and https://www.youtube.com/channel/UCCRmb5_GMWT2hSlALHlwIMg
+46:Assessments, Assignments and Tests:
+47:Weekly Tech: Each week students will be expected to individually follow tutorials and show that they can test and minimally use each of the
+49:Assignments: Assignments will be a combination of programming questions and theory questions to demonstrate understanding of the
+50:material. Assignments cover Linux setup and use, parallel computing concepts, including algorithms and data structures, and cluster topics
+51:including architecture and execution. Because much of the purpose of HPC is in solving numerical problems, students will be expected to learn
+62:class and assignments
+65:Weekly Labs: 10% total, best 10/11 labs. The last week will only have time for review questions and won't be a lab.
+105:While there is no attendance mark in this course, students are expected to regularly attend and perform the laboratory exercises.
+108:Students are expected and encouraged to bring a laptop to the lab sessions and to collaborate with other students. Assignments are to be
+111:graduate students, without exception. The scope and nature of the projects is not the same between the two courses.
+115:The Trent e-mail account is considered the official e-mail account and will be the only e-mail account used to communicate with students for
+116:academic and administrative purposes. Students are responsible for ensuring that they monitor and maintain their Trent e-mail account and to
+117:ensure that e-mail is accessed, read, and acted upon in a timely fashion. Students should be aware that e-mails from non-Trent accounts will
+129:Academic dishonesty, which includes plagiarism and cheating, is an extremely serious academic offence and carries penalties varying from
+130:failure on an assignment to expulsion from the University. Definitions, penalties, and procedures for dealing with plagiarism and cheating are
+135:It is Trent University's intent to create an inclusive learning environment. If a student has a disability and documentation from a regulated health
+136:care practitioner and feels that they may need accommodations to succeed in a course, the student should contact the Student Accessibility
+139:Sharing and Distribution of Course Content
+140:Students in this class should be aware that classroom activities (lecture, seminars, labs, etc.) may be recorded for teaching and learning
+142:distributes course content in any way that breaches copyright legislation, privacy legislation, and/or this policy, the student will be subject to
+143:disciplinary actions under the Student Charter of Rights and Responsibilities or the relevant Academic Integrity Policy, at a minimum, and may
+146:here: https://www.trentu.ca/artsci/sites/trentu.ca.artsci/files/documents/Policy%20on%20Sharing%20and%20Distribution%20of%20Course%20Co
+149:Student Absenteeism, Missed Tests and Examinations
+150:Students are responsible for completing all course requirements, including attending classes and meeting assignment deadlines as specified on
+152:Adjustments and deferrals to dates for participation, assignment submissions, tests, midterms and final examinations are not automatic. It is the
+155:Students unable to participate (i.e., by video and/or audio) should email their instructors to request alternative arrangements for participation in
+157:Students are required to be available for all tests, midterms and exams that are listed in their course syllabus and scheduled by their instructor or
+159:and tests. Normally a doctor’s note or supporting documentation is not required; however, when a student’s success in the course or program
+162:the student to make these arrangements in advance as per SAS guidelines, and to discuss accommodations of due dates with their instructors.

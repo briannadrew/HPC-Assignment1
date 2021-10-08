@@ -1,0 +1,27 @@
+[bdrew@localhost Assignment1]$ top
+
+top - 17:11:07 up 34 min,  1 user,  load average: 0.36, 0.23, 0.19
+Tasks: 228 total,   1 running, 227 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.8 us,  0.3 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :    808.7 total,     58.5 free,    364.3 used,    385.9 buff/cache
+MiB Swap:   1536.0 total,    733.8 free,    802.2 used.    317.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND  
+   2188 bdrew     20   0 3982580 138232  69176 S   5.3  16.7   1:23.02 gnome-s+ 
+   5396 bdrew     20   0  536972  46684  31752 S   0.7   5.6   0:26.19 gnome-t+ 
+   2384 bdrew     20   0  475024   1716   1312 S   0.3   0.2   0:00.17 gsd-sma+ 
+      1 root      20   0  252692   6220   4004 S   0.0   0.8   0:01.46 systemd  
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd 
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp   
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_par+ 
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ 
+      9 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 mm_perc+ 
+     10 root      20   0       0      0      0 S   0.0   0.0   0:00.01 ksoftir+ 
+     11 root      20   0       0      0      0 I   0.0   0.0   0:00.54 rcu_sch+ 
+     12 root      rt   0       0      0      0 S   0.0   0.0   0:00.00 migrati+ 
+     13 root      rt   0       0      0      0 S   0.0   0.0   0:00.00 watchdo+ 
+     14 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/0  
+     15 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/1  
+     16 root      rt   0       0      0      0 S   0.0   0.0   0:00.00 watchdo+ 
+     17 root      rt   0       0      0      0 S   0.0   0.0   0:00.00 migrati+ 
+
